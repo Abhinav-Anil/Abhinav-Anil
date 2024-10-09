@@ -68,10 +68,10 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Abhinav-Anil&show_icons=true&theme=dark&locale=en&layout=compact" alt="github-username" /></p>
 
 <br><br><br><br><br><br><br>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=Abhinav-Anil&show_icons=true&theme=dark&locale=en" alt="github-username" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=Abhinav-Anil&show_icons=true&theme=dark&locale=en" alt="Abhinav-Anil" /></p>
 <br><br><br><br><br><br><br><br><br><br>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Abhinav-Anil&theme=dark" alt="github-username" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Abhinav-Anil&theme=dark" alt="Abhinav-Anil" /></p>
 <br><br><br><br><br><br><br><br><br><br>
 <hr width="60%" >
 
