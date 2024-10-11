@@ -71,8 +71,8 @@
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=Abhinav-Anil&show_icons=true&theme=dark&locale=en" alt="Abhinav-Anil" /></p>
 <br><br><br><br><br><br><br><br><br><br>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Abhinav-Anil&theme=dark" alt="Abhinav-Anil" /></p>
-<br><br><br><br><br><br><br><br><br><br>
+
+<!-- <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Abhinav-Anil&theme=dark" alt="Abhinav-Anil" /></p><br><br><br><br><br><br><br><br><br><br> -->
 <hr width="60%" >
 
 <h3 align="left">Connect with me:</h3>
