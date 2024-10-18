@@ -88,8 +88,8 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhinav-anil" height="30" width="40" />
   </a>
   <a href="https://www.instagram.com/data.sci_/?ref=srmma1jpt_miv" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-        
-          generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/132px-Instagram_logo_2016.svg.png"   
+         alt="Instagram" height="30" width="40" />
   </a>
  </a>
   <!-- <a href="https://stackoverflow.com/users/your-stackoverflow-id" target="blank">
