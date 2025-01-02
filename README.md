@@ -71,7 +71,7 @@
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
 <br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Abhinav-Anil&show_icons=true&theme=dark&locale=en&layout=compact" alt="github-username" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Abhinav-Anil&show_icons=true&theme=dark&locale=en&layout=compact" alt="Abhinav-Anil" /></p>
 
 <br><br><br><br><br><br><br>
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=Abhinav-Anil&show_icons=true&theme=dark&locale=en" alt="Abhinav-Anil" /></p>
@@ -98,6 +98,16 @@
   <!-- <a href="https://kaggle.com/your-kaggle-username" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="your-kaggle-username" height="30" width="40" />
   </a> -->
+<!-- <hr width="36%"> -->
+
+<h3>GitHub Trophies</h3>
+<p align="center">
+  <a href="https://github.com/Abhinav-Anil/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Abhinav-Anil&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7" alt="github-trophies" />
+  </a>
+</p>
+
+<!-- <hr width="36%"> -->
 </p>
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Abhinav-Anil&label=Profile%20views&color=0e75b6&style=flat" alt="Abhinav-Anil" /> </p>
