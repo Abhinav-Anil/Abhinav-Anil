@@ -13,8 +13,8 @@
 <!-- ════════════════════════════ SOCIAL ════════════════════════════ -->
 <p align="center">
   <a href="https://linkedin.com/in/abhinav-anil" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://scholar.google.com/citations?user=y_ltsh4AAAAJ&hl=en" target="_blank"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar"/></a>
   <a href="https://www.instagram.com/data.sci_/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-  <!-- 👉 replace the placeholder email below with your real one -->
   <a href="mailto:abhinav.anil2206@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <img src="https://komarev.com/ghpvc/?username=Abhinav-Anil&label=Profile%20Views&color=21D4FD&style=for-the-badge" alt="Profile Views"/>
 </p>
@@ -200,6 +200,7 @@ const abhinav = {
 
 <p align="center">
   <a href="https://linkedin.com/in/abhinav-anil" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://scholar.google.com/citations?user=y_ltsh4AAAAJ&hl=en" target="_blank"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar"/></a>
   <a href="https://www.instagram.com/data.sci_/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
 </p>
 
